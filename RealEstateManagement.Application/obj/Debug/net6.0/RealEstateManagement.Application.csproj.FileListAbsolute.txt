@@ -1,0 +1,15 @@
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Application\bin\Debug\net6.0\RealEstateManagement.Application.deps.json
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Application\bin\Debug\net6.0\RealEstateManagement.Application.dll
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Application\bin\Debug\net6.0\RealEstateManagement.Application.pdb
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Application\bin\Debug\net6.0\RealEstateManagement.Domain.dll
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Application\bin\Debug\net6.0\RealEstateManagement.Domain.pdb
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Application\obj\Debug\net6.0\RealEstateManagement.Application.csproj.AssemblyReference.cache
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Application\obj\Debug\net6.0\RealEstateManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Application\obj\Debug\net6.0\RealEstateManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Application\obj\Debug\net6.0\RealEstateManagement.Application.AssemblyInfo.cs
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Application\obj\Debug\net6.0\RealEstateManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Application\obj\Debug\net6.0\RealEstateManagement.Application.csproj.CopyComplete
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Application\obj\Debug\net6.0\RealEstateManagement.Application.dll
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Application\obj\Debug\net6.0\refint\RealEstateManagement.Application.dll
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Application\obj\Debug\net6.0\RealEstateManagement.Application.pdb
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Application\obj\Debug\net6.0\ref\RealEstateManagement.Application.dll

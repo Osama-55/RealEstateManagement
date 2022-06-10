@@ -1,0 +1,17 @@
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Persistence\bin\Debug\net6.0\RealEstateManagement.Persistence.deps.json
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Persistence\bin\Debug\net6.0\RealEstateManagement.Persistence.dll
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Persistence\bin\Debug\net6.0\RealEstateManagement.Persistence.pdb
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Persistence\bin\Debug\net6.0\RealEstateManagement.Application.dll
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Persistence\bin\Debug\net6.0\RealEstateManagement.Domain.dll
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Persistence\bin\Debug\net6.0\RealEstateManagement.Application.pdb
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Persistence\bin\Debug\net6.0\RealEstateManagement.Domain.pdb
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Persistence\obj\Debug\net6.0\RealEstateManagement.Persistence.csproj.AssemblyReference.cache
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Persistence\obj\Debug\net6.0\RealEstateManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Persistence\obj\Debug\net6.0\RealEstateManagement.Persistence.AssemblyInfoInputs.cache
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Persistence\obj\Debug\net6.0\RealEstateManagement.Persistence.AssemblyInfo.cs
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Persistence\obj\Debug\net6.0\RealEstateManagement.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Persistence\obj\Debug\net6.0\RealEstateManagement.Persistence.csproj.CopyComplete
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Persistence\obj\Debug\net6.0\RealEstateManagement.Persistence.dll
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Persistence\obj\Debug\net6.0\refint\RealEstateManagement.Persistence.dll
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Persistence\obj\Debug\net6.0\RealEstateManagement.Persistence.pdb
+C:\Users\Osama\source\repos\RealEstateManagement\RealEstateManagement.Persistence\obj\Debug\net6.0\ref\RealEstateManagement.Persistence.dll

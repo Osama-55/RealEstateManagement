@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "LsE69V6FMhcEuXcPFz48Dwp+qDKbKkofj/46AIu9/9Y=",
+  "Source": "RealEstateManagement.WebApi",
+  "BasePath": "_content/RealEstateManagement.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RealEstateManagement.WebApi\\wwwroot",
+      "Source": "RealEstateManagement.WebApi",
+      "ContentRoot": "C:\\Users\\Osama\\source\\repos\\RealEstateManagement\\RealEstateManagement.WebApi\\wwwroot\\",
+      "BasePath": "_content/RealEstateManagement.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Osama\\source\\repos\\RealEstateManagement\\RealEstateManagement.WebApi\\wwwroot\\wwwroot\\images\\houses\\7e68d760-637904659659085874.png",
+      "SourceId": "RealEstateManagement.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Osama\\source\\repos\\RealEstateManagement\\RealEstateManagement.WebApi\\wwwroot\\",
+      "BasePath": "_content/RealEstateManagement.WebApi",
+      "RelativePath": "wwwroot/images/houses/7e68d760-637904659659085874.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\wwwroot\\images\\houses\\7e68d760-637904659659085874.png"
+    }
+  ]
+}

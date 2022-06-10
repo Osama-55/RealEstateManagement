@@ -1,0 +1,39 @@
+﻿@page "/customersoverview"
+
+<h3>Customers Overview</h3>
+
+<div class="m-2 d-flex justify-content-end">
+    <button @onclick="AddNewCustomer" class="mr-1">Add customers</button>
+</div>
+
+
+
+@if (Customers == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table>
+        <thead>
+            <tr>
+                <th></th>
+                <th>FirstName </th>
+                <th>LastName </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var ev in Customers)
+            {
+                <tr>
+                    <td class="customer-firstname">@ev.FirstName </td>
+                    <td class="customer-lastname">@ev.LastName </td>
+                    <InputSelect id="customer" class="form-control col-sm-8" @bind-Value="@SelectedCustomerId"></InputSelect>
+                    <td> <button @onclick="DeleteCustomer" class="delete-button">Delete Customer</button> </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
